@@ -28,7 +28,7 @@ const HomePage = () => {
             <h2>Welcome to Our Project</h2>
             <p>This project is designed to showcase our abilities to work with React, including state management, routing, and interacting with an API.</p>
 
-            <h3>Creators: Sean Sabo & Jericho Huelar</h3>
+            <h3>Creators:</h3>
             <table style={styles.table}>
                 <thead>
                     <tr>
@@ -38,11 +38,11 @@ const HomePage = () => {
                 </thead>
                 <tbody>
                     <tr>
-                        <td style={styles.td}>A B</td>
+                        <td style={styles.td}>Sean Sabo</td>
                         <td style={styles.td}>Developer</td>
                     </tr>
                     <tr>
-                        <td style={styles.td}>C D</td>
+                        <td style={styles.td}>Jericho Huelar</td>
                         <td style={styles.td}>Designer</td>
                     </tr>
                 </tbody>
