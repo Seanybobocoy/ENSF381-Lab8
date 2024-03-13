@@ -28,7 +28,7 @@ const HomePage = () => {
             <h2>Welcome to Our Project</h2>
             <p>This project is designed to showcase our abilities to work with React, including state management, routing, and interacting with an API.</p>
 
-            <h3>Creators:</h3>
+            <h3>Creators: </h3>
             <table style={styles.table}>
                 <thead>
                     <tr>
